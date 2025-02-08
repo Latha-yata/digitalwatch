@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/digitalwatch/static/css/main.f8a5ba8f.css",
-    "main.js": "/digitalwatch/static/js/main.bf7f87b3.js",
+    "main.js": "/digitalwatch/static/js/main.8019e8d2.js",
     "static/js/156.d2bbabf6.chunk.js": "/digitalwatch/static/js/156.d2bbabf6.chunk.js",
     "index.html": "/digitalwatch/index.html",
     "main.f8a5ba8f.css.map": "/digitalwatch/static/css/main.f8a5ba8f.css.map",
-    "main.bf7f87b3.js.map": "/digitalwatch/static/js/main.bf7f87b3.js.map",
+    "main.8019e8d2.js.map": "/digitalwatch/static/js/main.8019e8d2.js.map",
     "156.d2bbabf6.chunk.js.map": "/digitalwatch/static/js/156.d2bbabf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8a5ba8f.css",
-    "static/js/main.bf7f87b3.js"
+    "static/js/main.8019e8d2.js"
   ]
 }
